@@ -18,6 +18,7 @@ class CustomButton extends StatelessWidget {
           backgroundColor: Colors.blue,
           elevation: 9.0,
           textStyle: const TextStyle(
+            decoration: TextDecoration.underline,
             fontSize: 20,
           ),
         ),
